@@ -1,4 +1,4 @@
-import react from "react";
+//import react from "react";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {faBackward, faForward, faPlay, faPause} from "@fortawesome/free-solid-svg-icons"
  const Control=(props)=>{
