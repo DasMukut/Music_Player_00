@@ -1,4 +1,4 @@
-import react,{useEffect, useRef, useState} from "react";
+import {useEffect, useRef, useState} from "react";
 import Control from "./Control";
 import Details from "./Details";
 
