@@ -41,13 +41,13 @@
 
 *{
   margin :0;
-  padding: 0;
+  padding: 30px;
   box-sizing: border-box;
   font-family: sans-serif;
 }
 
 .App {
-  padding:30px;
+ 
   display: flex;
   align-items: center;
   justify-content: center;
